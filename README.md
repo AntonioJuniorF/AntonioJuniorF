@@ -16,8 +16,18 @@
 
 ## **Meus projetos**
 
+**Classificação**
+> * 
+
+**Regressão**
 **Artigos**
-> [Amplitude Estimators Applied to-Saturated Signals for the Angra Experiment](https://github.com/AntonioJuniorF/Amplitude-Estimators-Applied-to-Saturated-Signals-for-the--Angra-Experiment)
+* [Enem](https://github.com/AntonioJuniorF/ENEM) 
+    * Este projeto consiste no trabalho feito para o desafio proposto pela Codenation para entrar no AceleraDev Data Science. Onde o objetivo foi criar um modelo baseado em machine learning que estime a nota da prova de Matemática do enem de uma pessoa. O modelo desenvolvido foi o Gradient Boosting que obteve um R² de 0.92.
+
+
+**Artigos**
+> * [Amplitude Estimators Applied to-Saturated Signals for the Angra Experiment](https://github.com/AntonioJuniorF/Amplitude-Estimators-Applied-to-Saturated-Signals-for-the--Angra-Experiment)
+>   
 
 
 
