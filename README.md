@@ -1,15 +1,16 @@
-# **Oi, eu sou o Antonio** 👋 ---
+# **Oi, eu sou o Antonio** 👋 
+
 ### Quem sou eu?
 - Cientista de Dados.
 - Graduado em Engenharia Elétrica - Habilitação em sistemas Eletrônicos. (UFJF)
 - Estudante de mestrado em Engenharia Elétrica - Processamento de Sinais. (UFJF)
----
+
 ### Habilidades.
 * Python.
 * Machine Learning.
 * SQL.
 * Processamento estocástico.
-----
+---- ---
 ### Meus projetos
 
 
