@@ -1,6 +1,10 @@
 # **Oi, eu sou o Antonio** 👋
 
 ### Quem sou eu?
+- Cientista de Dados em formação sempre.
+- Graduado em Engenharia Elétrica - Habilitação em sistemas Eletrônicos. (UFJF)
+- Estudante de mestrado em Engenharia Elétrica - Processamento de Sinais. (UFJF)
+
 
 
 <!--
