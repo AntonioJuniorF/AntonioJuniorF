@@ -1,7 +1,7 @@
 # **Oi, eu sou o Antonio** 👋
-
+---
 ### Quem sou eu?
-- Cientista de Dados em formação sempre.
+- Cientista de Dados.
 - Graduado em Engenharia Elétrica - Habilitação em sistemas Eletrônicos. (UFJF)
 - Estudante de mestrado em Engenharia Elétrica - Processamento de Sinais. (UFJF)
 
@@ -10,6 +10,8 @@
 * Machine Learning.
 * SQL.
 * Processamento estocástico.
+
+### Meus projetos
 
 <!--
 **AntonioJuniorF/AntonioJuniorF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
