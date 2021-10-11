@@ -1,4 +1,4 @@
-### *Oi eu sou o Antonio* 👋
+### **Oi eu sou o Antonio** 👋
 
 <!--
 **AntonioJuniorF/AntonioJuniorF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
