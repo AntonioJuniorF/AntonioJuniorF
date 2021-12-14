@@ -30,9 +30,12 @@
 
 
 **Artigos**
-> * [Amplitude Estimators Applied to-Saturated Signals for the Angra Experiment](https://github.com/AntonioJuniorF/Amplitude-Estimators-Applied-to-Saturated-Signals-for-the--Angra-Experiment)
->   
+* [Amplitude Estimators Applied to-Saturated Signals for the Angra Experiment](https://github.com/AntonioJuniorF/Amplitude-Estimators-Applied-to-Saturated-Signals-for-the--Angra-Experiment)
+  * Foi criado um modelo de machine learning que calcule a carga de um sinal que foi saturado pelo eletrônica do Experimento Neutrinos Angra.    
 
+**Cursos**
+* [BootCamp IGTI DataSciese](https://github.com/AntonioJuniorF/bootcamp-DataScience-IGTI)
+      
 
 
 
