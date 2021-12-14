@@ -17,17 +17,22 @@
 ## **Meus projetos**
 
 **Classificação**
-> * 
+* [Projeto de marketing](https://github.com/AntonioJuniorF/Second-competition-flai) 
+   * Uma campanha de marketing de uma instituição financeira foi feita com o intuito de aumentar o número de pessoas que depositam no seu banco. Logo, eles querem saber se a pessoa que viu essa campanha vai ou não depositar. Logo, para responder essa pergunta que eles desejam foi criado um modelo de machine learning que agrupa vários outros, no caos um Staking. 
+   * Esse projeto foi proposto pela comunidade Flai para a sua terceira competição de machine learning. 
 
 **Regressão**
-**Artigos**
+
 * [Enem](https://github.com/AntonioJuniorF/ENEM) 
     * Este projeto consiste no trabalho feito para o desafio proposto pela Codenation para entrar no AceleraDev Data Science. Onde o objetivo foi criar um modelo baseado em machine learning que estime a nota da prova de Matemática do enem de uma pessoa. O modelo desenvolvido foi o Gradient Boosting que obteve um R² de 0.92.
+
+**Análise de dados**
 
 
 **Artigos**
 > * [Amplitude Estimators Applied to-Saturated Signals for the Angra Experiment](https://github.com/AntonioJuniorF/Amplitude-Estimators-Applied-to-Saturated-Signals-for-the--Angra-Experiment)
 >   
+
 
 
 
