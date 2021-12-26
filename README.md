@@ -18,7 +18,7 @@
 
 **Classificação**
 * [Projeto de marketing](https://github.com/AntonioJuniorF/Second-competition-flai) 
-   * Uma campanha de marketing de uma instituição financeira foi feita com o intuito de aumentar o número de pessoas que depositam no seu banco. Logo, eles querem saber se a pessoa que viu essa campanha vai ou não depositar. Logo, para responder essa pergunta que eles desejam foi criado um modelo de machine learning que agrupa vários outros, no caos um Staking. 
+   * Uma campanha de marketing de uma instituição financeira foi feita com o intuito de aumentar o número de pessoas que depositam no seu banco. Logo, eles querem saber se a pessoa que viu essa campanha vai ou não depositar. Para responder essa pergunta que eles desejam foi criado um modelo de machine learning que vai prever se a pessoa vai fazer o deposito ou não. 
    * Esse projeto foi proposto pela comunidade Flai para a sua terceira competição de machine learning. 
 
 **Regressão**
