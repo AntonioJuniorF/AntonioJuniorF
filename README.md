@@ -35,6 +35,9 @@
 
 **Cursos**
 * [BootCamp IGTI DataSciese](https://github.com/AntonioJuniorF/bootcamp-DataScience-IGTI)
+  * Nesse bootcamp foi introduzido o estudo sobre banco de dados relacionados e não relacionados, ferramentas para Big Data, estudo sobre modelos de machine learning e o uso do Power Bi. Logo nesse repositório encontrasse os exercicios feitos para cada módulo.   
+ 
+ 
       
 
 
