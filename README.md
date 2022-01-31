@@ -26,6 +26,9 @@
 * [Enem](https://github.com/AntonioJuniorF/ENEM) 
     * Este projeto consiste no trabalho feito para o desafio proposto pela Codenation para entrar no AceleraDev Data Science. Onde o objetivo foi criar um modelo baseado em machine learning que estime a nota da prova de Matemática do enem de uma pessoa. O modelo desenvolvido foi o Gradient Boosting que obteve um R² de 0.92.
 
+* [Qulaidade do Ar](https://github.com/AntonioJuniorF/quality_ar)
+  * Projeto criado para monitorar a qualidade do ar de uma determinada cidade através do monitoramento da taxa de emissão de CO. Para realizar esse objetivo foi criado um modelo de machine learning Light Gradient Boosting Machine que estima a concentração de CO com um MAPE em torno de 4% +/- 1.33%. 
+
 **Análise de dados**
 
 
