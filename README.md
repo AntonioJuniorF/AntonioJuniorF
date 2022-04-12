@@ -12,6 +12,7 @@
 * Machine Learning.
 * SQL.
 * Processamento estocástico.
+* Séries temporais. 
 
 
 ## **Meus projetos**
