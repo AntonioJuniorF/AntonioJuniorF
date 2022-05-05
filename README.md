@@ -35,6 +35,11 @@
 * [Qualidade do Ar](https://github.com/AntonioJuniorF/quality_ar)
   * Projeto criado para observar a qualidade do ar de uma determinada cidade através do monitoramento da taxa de emissão de CO. Para realizar esse objetivo, foi criado um modelo de machine learning Light Gradient Boosting Machine que estima a concentração de CO com um MAPE em torno de 4% +/- 1.33%. 
 
+
+* [Previsão de vendas](https://github.com/AntonioJuniorF/forecast-stores)
+  * Uma drograria deseja prever a  sua venda futura nas suas 1115 lojas com 6 semanas de antencedencia para que assim ela possa decidir qual a melhor estrategias para envestimento. Para realizar este desafio foi utilizado o modelo de machine Ligth Gradient Boosting Machine no qual a sua estimação de venda possui um erro percentual de 4.571 +/- 0.037 com um intervalode confiaça de 99%. 
+
+
 **Análise de dados**
 
 
