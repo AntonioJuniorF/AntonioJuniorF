@@ -26,6 +26,12 @@
 * [Projeto de Churn](https://github.com/AntonioJuniorF/flow_employed) 
    * Uma empresa queria vizualizar se o recém contratado permanecerá trabalhando no local por mais de um ano. Para realizar essa tarefa, foi desenvolvido um modelo de machine learning onde obteve um desepenho de f2 de 0.80 +/- 0.12. O deploy deste modelo, foi feito através de um API utilizando o flask. 
    * Esse projeto foi proposto pela comunidade Flai para a sua oitava competição de machine learning. 
+   
+* [Projeto de inadimplencia](https://github.com/AntonioJuniorF/Taxa_inadimplente) 
+    * Uma empresa quer pontuar a chance do seu cliente ser inadimplente ou não. Para realizar essa tarefa, foi desenvolvido um modelo de machine learning que obteve um recall de 0.78 e uma precision de 0.21 em relação à previsão da da classe de inadimplentes em relação aqueles que não não são o desempenho do modelo foi um recall de 0.78 e uma precision de 0.98. 
+ 
+
+
 
 **Regressão**
 
